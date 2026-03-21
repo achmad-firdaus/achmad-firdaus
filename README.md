@@ -2,7 +2,8 @@
 
 🚀 **Senior Application Security Engineer | Backend Architect | AI-Assisted Builder**
 
-I design and build **secure, scalable SaaS systems**, leveraging AI to accelerate backend and frontend development while maintaining strong security and architecture principles.
+I build **secure, scalable, production-grade systems** and leverage AI to accelerate both backend and frontend development.
+Experienced in leading engineering teams, architecting security platforms, and delivering enterprise solutions.
 
 ---
 
@@ -10,121 +11,138 @@ I design and build **secure, scalable SaaS systems**, leveraging AI to accelerat
 
 * 🔐 6+ years in **Application Security & Penetration Testing**
 * 🏗 Architect & Lead Developer of **Security Assessment Platform (SIERA)**
-* ⚡ Build systems faster using **AI-assisted development (Backend & Frontend)**
-* 🧩 Strong in **multi-tenant SaaS architecture & RBAC design**
-* 👥 Led cross-functional engineering teams
-* 🎯 Focus on **secure system design + real-world impact**
+* 👨‍💻 Backend Engineer (Golang, Node.js, PHP)
+* 🤖 Using **AI to accelerate development lifecycle** (backend & frontend)
+* 🧩 Strong in **multi-tenant SaaS architecture & system design**
+* 👥 Led cross-functional engineering team (8 members)
+* 🎯 Focused on **secure, scalable, and production-ready systems**
 
 ---
 
 ## 🏆 Certifications
 
-* 🛡 Burp Suite Certified Practitioner (BSCP)
-* 🧠 eLearnSecurity Web Application Penetration Tester eXtreme (eWPTX)
+* 🛡 **Burp Suite Certified Practitioner (BSCP)** – PortSwigger
+  https://portswigger.net/web-security/e/c/5e8b4393196a8d90
+
+* 🧠 **eLearnSecurity Web Application Penetration Tester eXtreme (eWPTX)** – INE
+  https://verified.elearnsecurity.com/certificates/07afa842-f330-4b78-ac3b-133417b98939
+
+---
+
+## 🚀 Flagship Project
+
+### 🔹 HRIS SaaS Platform (Production-Grade System)
+
+A **multi-tenant HR platform** designed with security-first architecture and built using AI-assisted development.
+
+#### ⚙️ Tech Stack
+
+**Backend**
+
+* Node.js + Express
+* JWT Authentication (Access + Refresh Token via httpOnly Cookie)
+
+**Frontend**
+
+* Next.js 16 (App Router)
+* React 18 + TypeScript
+* Tailwind CSS
+* Recharts (data visualization)
+* Framer Motion (UI animation)
+
+**Database**
+
+* PostgreSQL
+
+---
+
+#### 🔐 Security & Architecture
+
+* RBAC (database-driven roles & permissions + dynamic menu mapping)
+* Hardened HTTP headers using Helmet
+* API Rate Limiting
+* Secure token handling (httpOnly cookies)
+
+---
+
+#### 📊 Observability & Logging
+
+* Structured logging using Pino
+* Request logging middleware
+* Audit logs with **tamper-evident hash-chain design**
+
+---
+
+#### 🧠 Key Highlights
+
+* 🧩 Multi-tenant SaaS architecture
+* 🔐 Security-first design (aligned with real pentesting experience)
+* 🤖 Built using **AI-assisted development** (backend & frontend acceleration)
+* ⚙️ Production-ready with Docker-based deployment
+
+---
+
+## 🔹 Security Assessment Platform (SIERA)
+
+* Container-based internal security testing platform
+* Built with Golang, Node.js, PostgreSQL, Redis
+* Designed for scalable vulnerability assessment workflows
+* Used in enterprise security operations
+
+---
+
+## 🔹 Other Engineering Work
+
+* Vulnerability Assessment Automation Tools
+* Backend Systems for Enterprise Applications
+* Security Testing Workflows & Reporting Automation
 
 ---
 
 ## ⚙️ Tech Stack
 
-### 👨‍💻 Backend & Architecture
+### 👨‍💻 Backend & Systems
 
-* Node.js (Express), Golang, PHP
-* REST API Design, Distributed Systems
+* Golang, Node.js (Express), PHP (Laravel, CodeIgniter, CakePHP)
 
-### 🎨 Frontend (AI-Accelerated)
+### 🗄️ Infrastructure
 
-* Next.js (App Router), React, TypeScript
-* Tailwind CSS, Recharts, Framer Motion
+* PostgreSQL, Redis, Docker, Linux, CI/CD
 
-### 🗄️ Data & Infrastructure
+### 🔐 Security
 
-* PostgreSQL, Redis
-* Docker, Linux, CI/CD
+* Web Security (OWASP Top 10)
+* API Security Testing
+* Manual Exploitation (Burp Suite)
+* CVSS Risk Analysis
 
-### 🔐 Security Engineering
+### 🤖 AI-Assisted Engineering
 
-* OWASP Top 10, API Security
-* Authentication & Authorization design
-* Vulnerability Assessment & Exploitation (Burp Suite)
-* Secure architecture & audit logging
-
----
-
-## 🚀 Featured Projects
-
-### 🔹 HRIS SaaS Platform (AI-Assisted Development)
-
-A **production-ready multi-tenant HR system** built with a strong focus on scalability, security, and development efficiency using AI.
-
-#### ⚙️ Architecture & Stack
-
-* **Backend**: Node.js + Express
-* **Frontend**: Next.js (App Router) + React + TypeScript + Tailwind CSS
-* **Database**: PostgreSQL
-* **Visualization**: Recharts
-* **UI/UX Motion**: Framer Motion
-
-#### 🔐 Security & System Design
-
-* JWT-based authentication (access + refresh token via httpOnly cookie)
-* RBAC with **database-driven roles & permission mapping**
-* Hardened HTTP headers using helmet
-* API rate limiting for abuse protection
-* Structured logging using pino
-* Request logging middleware
-
-#### 🛡 Advanced Security Feature
-
-* **Tamper-evident Audit Log System**
-
-  * Hash-chain based design
-  * Ensures integrity & traceability of system activity
-
-#### 🤖 AI Utilization
-
-* Accelerated backend & frontend development using AI
-* Faster prototyping & feature delivery
-* Reduced development time without sacrificing architecture quality
-
----
-
-### 🔹 Security Assessment Platform (SIERA)
-
-* Container-based vulnerability assessment platform
-* Built with Golang, Node.js, PostgreSQL, Redis
-* Designed scalable workflows for enterprise security testing
-* Used in real-world security operations
-
----
-
-### 🔹 Security & Automation Tools
-
-* Internal tools for penetration testing workflows
-* Automation for vulnerability validation & reporting
-* Focus on efficiency, scalability, and security integration
+* Accelerating development lifecycle using AI
+* Rapid prototyping & scalable system scaffolding
 
 ---
 
 ## 💡 Engineering Philosophy
 
-* 🔐 Security is not a feature — it's a **foundation**
-* ⚙️ Build systems that are **production-ready from day one**
+* 🔐 Security is not an afterthought — it is **built-in by design**
+* ⚙️ Systems must be **scalable, observable, and production-ready**
 * 🤖 AI is a **force multiplier**, not a shortcut
-* 📊 Always align engineering with **business impact**
+* 📊 Focus on **real-world impact & maintainability**
 
 ---
 
-## 🤝 Let's Collaborate
+## 📊 GitHub Stats
 
-I’m open to:
+![stats](https://github-readme-stats.vercel.app/api?username=achmad-firdaus\&show_icons=true\&theme=tokyonight)
 
-* Backend & System Architecture
-* Security Engineering & Pentesting
-* SaaS Platform Development
-* AI-assisted engineering initiatives
+---
 
-📫 [achmadfirdaus244@gmail.com](mailto:achmadfirdaus244@gmail.com)
-📍 Indonesia
+## 🤝 Let's Connect
+
+* 💼 LinkedIn: https://www.linkedin.com/in/achmad7113/
+* 📫 Email: [achmadfirdaus244@gmail.com](mailto:achmadfirdaus244@gmail.com)
+* 📍 Indonesia
 
 ---
 
