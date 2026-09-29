@@ -6,9 +6,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/achmad7113/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Based%20in-Indonesia-informational?style=flat" />
-  <img src="https://img.shields.io/badge/Focused%20on-Growth%20%26%20Career%20Development-2ea44f?style=flat" />
+  <a href="https://www.linkedin.com/in/achmad7113/"><img src="https://img.shields.io/badge/LinkedIn-24292f?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Location-Indonesia-24292f?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Growth%20%26%20Career%20Development-24292f?style=flat-square" />
 </p>
 
 ---
@@ -58,26 +58,26 @@
 ### ⚙️ Tech Stack
 
 **Backend & Systems**
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Go](https://img.shields.io/badge/Go-24292f?style=flat-square&logo=go&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-24292f?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-24292f?style=flat-square&logo=express&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-24292f?style=flat-square&logo=php&logoColor=white)
 
 **Frontend**
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-24292f?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-24292f?style=flat-square&logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-24292f?style=flat-square&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-24292f?style=flat-square&logo=tailwindcss&logoColor=white)
 
 **Infrastructure**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-24292f?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-24292f?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-24292f?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-24292f?style=flat-square&logo=linux&logoColor=white)
 
 **Security**
-![OWASP](https://img.shields.io/badge/OWASP%20Top%2010-000000?style=flat&logo=owasp&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat&logo=burpsuite&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP%20Top%2010-24292f?style=flat-square&logo=owasp&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-24292f?style=flat-square&logo=burpsuite&logoColor=white)
 
 ---
 
@@ -92,8 +92,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=achmad-firdaus&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b6b&icon_color=ff6b6b" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=achmad-firdaus&theme=radical&hide_border=true&background=0d1117&ring=ff6b6b&fire=ff6b6b" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=achmad-firdaus&show_icons=true&hide_border=true&bg_color=ffffff&title_color=24292f&text_color=24292f&icon_color=24292f&border_radius=6" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=achmad-firdaus&hide_border=true&background=ffffff&stroke=24292f&ring=24292f&fire=24292f&currStreakLabel=24292f&sideLabels=24292f&dates=24292f&border_radius=6" width="48%" />
 </p>
 
 ---
