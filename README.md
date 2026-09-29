@@ -19,7 +19,7 @@
 - 🏗️ Architect & Lead Developer of **SIERA**, an internal enterprise security testing platform
 - 👨‍💻 **Full-stack capable** — Golang/Node.js/PHP on the backend, React/Next.js on the frontend — with a strong focus on multi-tenant SaaS architecture
 - 🤖 Use **AI-assisted development** to accelerate delivery across the full stack without sacrificing code quality
-- 👥 Led a cross-functional engineering team of 8
+- 👥 Leading a core team of 5 (full-stack/lead, full-stack, backend, frontend, UI/UX), plus up to 2 supporting engineers pulled in as needed
 - 🌱 Always looking to **grow technically and take on bigger ownership** — deeper system design, tougher security problems, and more scale
 
 ---
