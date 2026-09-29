@@ -92,7 +92,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=achmad-firdaus&show_icons=true&hide_border=true&bg_color=ffffff&title_color=24292f&text_color=24292f&icon_color=24292f&border_radius=6" width="48%" />
+  <img src="https://github-readme-stats-sigma-pink.vercel.app/api?username=achmad-firdaus&show_icons=true&hide_border=true&bg_color=ffffff&title_color=24292f&text_color=24292f&icon_color=24292f&border_radius=6" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=achmad-firdaus&hide_border=true&background=ffffff&stroke=24292f&ring=24292f&fire=24292f&currStreakLabel=24292f&sideLabels=24292f&dates=24292f&border_radius=6" width="48%" />
 </p>
 
