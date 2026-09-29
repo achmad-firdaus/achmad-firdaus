@@ -42,20 +42,16 @@
 
 ### 🚀 Flagship Work
 
-**HRIS SaaS Platform** — multi-tenant HR system, security-first architecture, built with AI-assisted development
-- **Frontend:** Next.js 16 (App Router), React 18 + TypeScript, Tailwind CSS, Recharts, Framer Motion
-- **Backend:** Node.js + Express, JWT auth (access/refresh via httpOnly cookies)
-- **Data:** PostgreSQL
-- **Security:** RBAC (DB-driven roles + dynamic menu mapping), Helmet hardened headers, API rate limiting
-- **Observability:** Structured logging (Pino), request middleware, tamper-evident audit logs via hash-chain
+**SIERA** *(Security Is Everyone's Responsibility and Accountability)* — an application security platform I designed in 2022 and led the build-out of, now in production at a large telecom client (under NDA) with ~900 registered internal users running their own VAPT (vulnerability assessment & penetration testing) — what used to take one or two days now takes a few hours.
 
-**SIERA — Enterprise Security Testing Platform** *(Telkomsel internal)*
-End-to-end platform covering the full pentest lifecycle — role/menu foundations, security checklists, pentest planning, vulnerability assessments, connectivity checks, and reporting. Architected and built across the full stack:
-- **Frontend:** Next.js + React, TanStack Query, Radix UI, ApexCharts — internal dashboards for planning, tracking, and reviewing assessments
-- **Backend services:** Go (`net/http`) for the core API and a Telegram-first notification bot; Node.js/Express + PostgreSQL for auxiliary services
-- **Reporting pipeline:** Go gateway + Python/LibreOffice microservices generating DOCX/PDF reports (Berita Acara, vulnerability assessments) from templated payloads
-- **Infra:** Dockerized services, Redis, PostgreSQL, deployed for real enterprise security operations
-- Led the architecture and cross-service integration end-to-end — not just the backend layer
+- **Architecture:** Go microservices behind a gateway handling secure connections and auth, organized into reference data / workflow / integration layers across six separate databases
+- **Identity:** Microsoft Azure AD integrated end-to-end — OIDC login for users, plus a separate machine-to-machine flow for backend services to trigger Power Automate workflows (two deliberate login paths, not one shared token)
+- **Frontend:** React/Next.js dashboards for planning, tracking, and reviewing assessments
+- **Automation:** Ties together Nessus, Rapid7, Acunetix, SonarQube, and Burp Suite Professional for vulnerability assessment across infra, web apps, and source code — including rescans and auto-closeout once a finding is fixed
+- **Connectivity Pre-Check service:** confirms a target is reachable before manual testing starts, across web/infra/API scopes, using curl, nmap, TLS checks, SSH, Playwright, and Postman
+- **Workflow integration:** two separate Power Automate flows for approvals and digital signatures (pentest clearance and VA clearance run independently), plus full pentest management — findings intake, remediation tracking, retests, and report generation
+- **Stack:** Golang, Node.js, React/Next.js, PostgreSQL, Redis, Docker
+- Sole architect and lead developer; leading a core team of five (full-stack, backend, frontend, UI/UX) plus supporting engineers as needed
 
 ---
 
