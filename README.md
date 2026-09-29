@@ -7,9 +7,8 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/achmad7113/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:achmadfirdaus244@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Based%20in-Indonesia-informational?style=flat" />
-  <img src="https://img.shields.io/badge/Open%20to-Remote%20%2F%20Full--time%20%2F%20Contract-2ea44f?style=flat" />
+  <img src="https://img.shields.io/badge/Focused%20on-Growth%20%26%20Career%20Development-2ea44f?style=flat" />
 </p>
 
 ---
@@ -21,7 +20,7 @@
 - 👨‍💻 **Full-stack capable** — Golang/Node.js/PHP on the backend, React/Next.js on the frontend — with a strong focus on multi-tenant SaaS architecture
 - 🤖 Use **AI-assisted development** to accelerate delivery across the full stack without sacrificing code quality
 - 👥 Led a cross-functional engineering team of 8
-- 🌐 Currently open to **remote-friendly roles**, backend/security engineering, at companies serious about secure system design
+- 🌱 Always looking to **grow technically and take on bigger ownership** — deeper system design, tougher security problems, and more scale
 
 ---
 
@@ -103,12 +102,11 @@ End-to-end platform covering the full pentest lifecycle — role/menu foundation
 
 ---
 
-### 🤝 Let's Connect
+### 🌱 Career Direction
 
-I'm open to backend/security engineering opportunities — remote, hybrid, or on-site, local or international.
+I'm focused on growing as an engineer — taking on harder architecture problems, deeper security work, and more ownership over the systems I build. If that overlaps with what you're working on:
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/achmad7113/)
-- 📫 [achmadfirdaus244@gmail.com](mailto:achmadfirdaus244@gmail.com)
 - 📍 Indonesia (GMT+7)
 
 <p align="center"><i>Building secure systems, scaling engineering teams, and using AI to move faster without moving carelessly.</i></p>
