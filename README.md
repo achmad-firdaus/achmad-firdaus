@@ -18,10 +18,17 @@
 
 - 🔐 **6+ years** in Application Security & Penetration Testing
 - 🏗️ Architect & Lead Developer of **SIERA**, an internal enterprise security testing platform
-- 👨‍💻 Backend engineer across **Golang, Node.js, and PHP**, with a strong focus on multi-tenant SaaS architecture
+- 👨‍💻 **Full-stack capable** — Golang/Node.js/PHP on the backend, React/Next.js on the frontend — with a strong focus on multi-tenant SaaS architecture
 - 🤖 Use **AI-assisted development** to accelerate delivery across the full stack without sacrificing code quality
 - 👥 Led a cross-functional engineering team of 8
 - 🌐 Currently open to **remote-friendly roles**, backend/security engineering, at companies serious about secure system design
+
+---
+
+### 🔨 Currently Building
+
+- 🛡️ **[node-shield](https://github.com/achmad-firdaus/node-shield)** — Node.js security hardening reference: closing CodeQL-flagged data-flow vulnerabilities (tainted-data-to-log-file, injection sinks) with safe structured logging patterns *(last push: Sep 28, 2026)*
+- 🏢 **[hris-platform](https://github.com/achmad-firdaus/hris-platform)** — Enterprise-grade HRIS with RBAC, dynamic approval workflows, audit logging & security monitoring (Node.js, Next.js, PostgreSQL, Docker)
 
 ---
 
@@ -43,10 +50,13 @@
 - **Security:** RBAC (DB-driven roles + dynamic menu mapping), Helmet hardened headers, API rate limiting
 - **Observability:** Structured logging (Pino), request middleware, tamper-evident audit logs via hash-chain
 
-**SIERA — Security Assessment Platform**
-- Container-based internal pentesting/vulnerability assessment platform
-- Built with Golang, Node.js, PostgreSQL, Redis
-- Used in real enterprise security operations, designed for scalable assessment workflows
+**SIERA — Enterprise Security Testing Platform** *(Telkomsel internal)*
+End-to-end platform covering the full pentest lifecycle — role/menu foundations, security checklists, pentest planning, vulnerability assessments, connectivity checks, and reporting. Architected and built across the full stack:
+- **Frontend:** Next.js + React, TanStack Query, Radix UI, ApexCharts — internal dashboards for planning, tracking, and reviewing assessments
+- **Backend services:** Go (`net/http`) for the core API and a Telegram-first notification bot; Node.js/Express + PostgreSQL for auxiliary services
+- **Reporting pipeline:** Go gateway + Python/LibreOffice microservices generating DOCX/PDF reports (Berita Acara, vulnerability assessments) from templated payloads
+- **Infra:** Dockerized services, Redis, PostgreSQL, deployed for real enterprise security operations
+- Led the architecture and cross-service integration end-to-end — not just the backend layer
 
 ---
 
@@ -87,8 +97,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=achmad-firdaus&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=achmad-firdaus&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=achmad-firdaus&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b6b&icon_color=ff6b6b" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=achmad-firdaus&theme=radical&hide_border=true&background=0d1117&ring=ff6b6b&fire=ff6b6b" width="48%" />
 </p>
 
 ---
